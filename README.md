@@ -1,0 +1,2 @@
+# hotel
+GitHub Pages
